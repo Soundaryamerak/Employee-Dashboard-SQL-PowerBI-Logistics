@@ -1,2 +1,2 @@
-# Demand-Planning-SQL-PowerBI-Logistics
-Data manipulation and visualization with SQL &amp; Power BI
+# Employee Dashboard 
+Data manipulation & Visualisation using SQL & PowerBI in the Logistics Industry
