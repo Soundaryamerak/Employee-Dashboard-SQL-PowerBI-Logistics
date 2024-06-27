@@ -2,7 +2,8 @@
 Data manipulation & Visualisation using SQL & PowerBI.
 
 # Data
-SQL dataframe consists of 7 interconnected tables ![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/Employee%20database.png).
+SQL dataframe consists of 7 interconnected tables ![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/9f069fd8-3ee0-40e7-9c69-c0872f7be8f6)
+
 
 # SQL queries
 6 queries to manipute and extract data for a total of 11 charts. [Find SQL file here](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/SQL%20Queries.sql)
