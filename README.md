@@ -19,10 +19,20 @@ These are the CSV files Exported.
 # Power BI Dashboard
 2 dashboard namely Attrition & Gender Gap Analysis [Find Workbook here](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/Employee%20Database.pbix)
 
-# Attrition Analysis
+# Attrition Analysis Dashboard
+![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/215eacb6-d8fb-44e5-9f2a-d2b26ac90c62)
+
 **Charts**
 
 **Insights**
 
 **Recommendations**
 
+# Gender Dashboard
+![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/7882e0fb-321b-4a47-97b3-20b33bea3527)
+
+**Charts**
+
+**Insights**
+
+**Recommandations**
