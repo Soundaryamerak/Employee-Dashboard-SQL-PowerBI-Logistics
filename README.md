@@ -32,34 +32,39 @@ These are the CSV files Exported.
 ![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/36c7f15d-d2ef-4507-bf4f-218b98a38bba)
 
 **Charts**
-1. Employees Hired and Quit Over the Years: *Line chart displays the number of employees hired and the number of employees who quit from 1985 to 2000. The blue line represents employees hired, and the purple line represents employees who quit*
-2. Average Salary Over the Years: *Line chart shows the average salary for different job titles from 1985 to 2000. Job titles include Senior Engineer, Staff, Senior Staff, Managers, Engineer, and Assistant Engineer, each represented by different colored lines.*
-3. Salary Distribution for the Year 2000 (Department): *Pie chart illustrates the salary distribution by department for the year 2000. Each department is represented by a different color.*
-4. Salary Distribution for the Year 2000 (Title):*Pie chart shows the salary distribution by job title for the year 2000. Each job title is represented by a different color.*
-5. Years Spent by Employees Before Quitting: *Bar chart displays the number of male and female employees who quit after spending different ranges of years at the company (0-3, 3-6, 6-9, 9-12, 12-15, 15-16 years).*
-6. Attrition (2000): *Stacked bar chart depicts the number of employees who quit in 2000, categorized by their job titles (Assistant Engineers, Engineers, Managers, Senior Engineers, Senior Staff, Staff, Technique Leader) across different departments.*
-7. Employee Lifecycle: *This horizontal bar chart shows the average number of years spent by employees in each job title before quitting.*
+1. **Employees Hired and Quit Over the Years:** Line chart showing the number of employees hired (blue) and quit (purple) from 1985 to 2000.
+2. **Average Salary Over the Years:** Line chart depicting average salaries for various job titles from 1985 to 2000, with each title represented by different colors.
+3. **Salary Distribution for the Year 2000 (Department):** Pie chart illustrating the 2000 salary distribution by department, each represented by a unique color.
+4. **Salary Distribution for the Year 2000 (Title):** Pie chart showing the 2000 salary distribution by job title, each represented by a different color.
+5. **Years Spent by Employees Before Quitting:** Bar chart displaying the number of male and female employees who quit after various tenures (0-3, 3-6, 6-9, 9-12, 12-15, 15-16 years).
+6. **Attrition (2000):** Stacked bar chart depicting 2000 attrition rates by job title across different departments.
+7. **Employee Lifecycle:** Horizontal bar chart showing the average tenure of employees in each job title before quitting.
 
-Top 5 Insights from the Dashboard
-1. Salary Decline Over the Years: *The average salary for most job titles showed a downward trend from 1985 to 2000, which could contribute to the increasing attrition rates.*
-2. : *A significant number of employees quit between 6 & 9 years of their employment, highlighting a critical period for employee retention efforts.*
-3. High Attrition in Specific Departments: *Development and Sales departments experienced the highest attrition rates in 2000, particularly among Assistant Engineers and Staff.*
-Recommendations
-Improve Onboarding and Early Career Support:
+Top Insights & Recommendations from the Dashboard
+Insight 1: The number of hires has steadily declined, while the number of employees quitting has increased.
+Recommendations:
 
-Since many employees quit within the first three years, enhancing onboarding processes and providing strong early career support could help improve retention.
-Competitive Compensation Packages:
+Enhance Employee Engagement: Implement programs to boost employee engagement and reduce turnover rates.
+Improve Retention Strategies: Develop and execute targeted retention strategies to address the root causes of increased attrition.
+Recruitment Boost: Intensify recruitment efforts to balance the workforce and mitigate the impact of higher attrition.
+Insight 2: Average salaries have slightly declined over the years, which is concerning given inflationary trends.
+Recommendations:
 
-To counteract the declining salary trend, the company should consider revising its compensation packages to stay competitive and retain talent.
-Targeted Retention Programs:
+Competitive Compensation: Regularly evaluate and adjust compensation packages to ensure market competitiveness.
+Salary Reviews: Conduct periodic salary reviews to ensure alignment with inflation and industry benchmarks.
+Enhance Benefits: Introduce or enhance non-monetary benefits to supplement stagnant salaries.
+Insight 3: High attrition rates are observed among staff and senior staff in support departments, as well as among engineers and senior engineers in core departments (production, development, and quality service).
+Recommendations:
 
-Develop targeted retention programs for departments with high attrition rates, such as Development and Sales, to address specific issues within these areas.
-Employee Engagement Initiatives:
+Focus on Support Departments: Develop specialized retention programs to address specific challenges in support departments.
+Career Development Initiatives: Implement comprehensive career development and progression plans for engineers and senior engineers.
+Employee Feedback Mechanism: Regularly collect and act on employee feedback to address issues contributing to high attrition rates.
+Insight 4: A significant number of employees quit between 6 to 12 years, despite the average employee lifecycle showing approximately 12 years in each role.
+Recommendations:
 
-Implement employee engagement initiatives, such as regular feedback sessions, career development opportunities, and recognition programs, to boost morale and reduce turnover.
-Exit Interviews and Data Analysis:
-
-Conduct detailed exit interviews and analyze the data to understand the reasons behind employee attrition and develop strategies to address these issues.
+Mid-Career Support: Provide additional support and development opportunities for employees in the 6 to 12-year tenure range.
+Recognition Programs: Implement targeted recognition and reward programs for long-term employees to enhance morale and retention.
+Succession Planning: Develop and execute succession planning initiatives to ensure career progression and reduce mid-career attrition.
 **Insights**
 
 **Recommendations**
