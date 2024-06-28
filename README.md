@@ -31,7 +31,7 @@ These are the CSV files Exported.
 # Attrition Analysis Dashboard
 ![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/36c7f15d-d2ef-4507-bf4f-218b98a38bba)
 
-**Charts**
+# Charts
 1. **Employees Hired and Quit Over the Years:** Line chart showing the number of employees hired (blue) and quit (purple) from 1985 to 2000.
 2. **Average Salary Over the Years:** Line chart depicting average salaries for various job titles from 1985 to 2000, with each title represented by different colors.
 3. **Salary Distribution for the Year 2000 (Department):** Pie chart illustrating the 2000 salary distribution by department, each represented by a unique color.
@@ -40,34 +40,32 @@ These are the CSV files Exported.
 6. **Attrition (2000):** Stacked bar chart depicting 2000 attrition rates by job title across different departments.
 7. **Employee Lifecycle:** Horizontal bar chart showing the average tenure of employees in each job title before quitting.
 
-Top Insights & Recommendations from the Dashboard
-Insight 1: The number of hires has steadily declined, while the number of employees quitting has increased.
-Recommendations:
+# Top Insights & Recommendations from the Dashboard
+**Insight 1:** The number of hires has steadily declined, while the number of employees quitting has increased.
 
-Enhance Employee Engagement: Implement programs to boost employee engagement and reduce turnover rates.
-Improve Retention Strategies: Develop and execute targeted retention strategies to address the root causes of increased attrition.
-Recruitment Boost: Intensify recruitment efforts to balance the workforce and mitigate the impact of higher attrition.
-Insight 2: Average salaries have slightly declined over the years, which is concerning given inflationary trends.
-Recommendations:
+**Recommendations:**
+1. Improve Retention Strategies: Develop and execute targeted retention strategies to address the root causes of increased attrition.
+2. Recruitment Boost: Intensify recruitment efforts to balance the workforce and mitigate the impact of higher attrition.
 
-Competitive Compensation: Regularly evaluate and adjust compensation packages to ensure market competitiveness.
-Salary Reviews: Conduct periodic salary reviews to ensure alignment with inflation and industry benchmarks.
-Enhance Benefits: Introduce or enhance non-monetary benefits to supplement stagnant salaries.
-Insight 3: High attrition rates are observed among staff and senior staff in support departments, as well as among engineers and senior engineers in core departments (production, development, and quality service).
-Recommendations:
+**Insight 2:** Average salaries have slightly declined over the years, which is concerning given inflationary trends.
 
-Focus on Support Departments: Develop specialized retention programs to address specific challenges in support departments.
-Career Development Initiatives: Implement comprehensive career development and progression plans for engineers and senior engineers.
-Employee Feedback Mechanism: Regularly collect and act on employee feedback to address issues contributing to high attrition rates.
-Insight 4: A significant number of employees quit between 6 to 12 years, despite the average employee lifecycle showing approximately 12 years in each role.
-Recommendations:
+**Recommendations:**
+1. Competitive Compensation: Regularly evaluate and adjust compensation packages to ensure market competitiveness.
+2. Enhance Benefits: Introduce or enhance non-monetary benefits to supplement stagnant salaries.
 
-Mid-Career Support: Provide additional support and development opportunities for employees in the 6 to 12-year tenure range.
-Recognition Programs: Implement targeted recognition and reward programs for long-term employees to enhance morale and retention.
-Succession Planning: Develop and execute succession planning initiatives to ensure career progression and reduce mid-career attrition.
-**Insights**
+**Insight 3:** High attrition rates are observed among staff and senior staff in support departments, as well as among engineers and senior engineers in core departments (production, development, and quality service).
 
-**Recommendations**
+**Recommendations:**
+Now we are aware of the title and department that we need to focus on, we can implement following recommendations specifically.
+1. Employee Surveys: Conduct surveys to understand the root causes of high attrition specifically toilered for each title and act on employee Feedback to address issues.
+2. Career Development Initiatives: Implement comprehensive career development and progression plans for engineers and senior engineers, staff and support staff.
+
+**Insight 4:** A significant number of employees quit between 6 to 12 years, despite the average employee lifecycle showing approximately 12 years in each role.
+**Recommendations:**
+1. Mid-Career Support: Provide additional support and development opportunities for employees in the 6 to 12-year tenure range.
+2. Recognition Programs: Implement targeted recognition and reward programs for long-term employees to enhance morale and retention.
+3. Succession Planning: Develop and execute succession planning initiatives to ensure career progression and reduce mid-career attrition.
+
 
 # Gender Dashboard
 ![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/dcdcb357-3a78-4610-8428-de1e175b7deb)
