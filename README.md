@@ -29,9 +29,35 @@ These are the CSV files Exported.
 # Attrition Analysis Dashboard
 ![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/cb0bae34-ddb4-4060-99dc-9cf37c45c19b)
 
-
 **Charts**
+1. Employees Hired and Quit Over the Years: *Line chart displays the number of employees hired and the number of employees who quit from 1985 to 2000. The blue line represents employees hired, and the purple line represents employees who quit*
+2. Average Salary Over the Years: *Line chart shows the average salary for different job titles from 1985 to 2000. Job titles include Senior Engineer, Staff, Senior Staff, Managers, Engineer, and Assistant Engineer, each represented by different colored lines.*
+3. Salary Distribution for the Year 2000 (Department): *Pie chart illustrates the salary distribution by department for the year 2000. Each department is represented by a different color.*
+4. Salary Distribution for the Year 2000 (Title):*Pie chart shows the salary distribution by job title for the year 2000. Each job title is represented by a different color.*
+5. Years Spent by Employees Before Quitting: *Bar chart displays the number of male and female employees who quit after spending different ranges of years at the company (0-3, 3-6, 6-9, 9-12, 12-15, 15-16 years).*
+6. Attrition (2000): *Stacked bar chart depicts the number of employees who quit in 2000, categorized by their job titles (Assistant Engineers, Engineers, Managers, Senior Engineers, Senior Staff, Staff, Technique Leader) across different departments.*
+7. Employee Lifecycle: *This horizontal bar chart shows the average number of years spent by employees in each job title before quitting.*
 
+Top 5 Insights from the Dashboard
+1. Salary Decline Over the Years: *The average salary for most job titles showed a downward trend from 1985 to 2000, which could contribute to the increasing attrition rates.*
+2. : *A significant number of employees quit between 6 & 9 years of their employment, highlighting a critical period for employee retention efforts.*
+3. High Attrition in Specific Departments: *Development and Sales departments experienced the highest attrition rates in 2000, particularly among Assistant Engineers and Staff.*
+Recommendations
+Improve Onboarding and Early Career Support:
+
+Since many employees quit within the first three years, enhancing onboarding processes and providing strong early career support could help improve retention.
+Competitive Compensation Packages:
+
+To counteract the declining salary trend, the company should consider revising its compensation packages to stay competitive and retain talent.
+Targeted Retention Programs:
+
+Develop targeted retention programs for departments with high attrition rates, such as Development and Sales, to address specific issues within these areas.
+Employee Engagement Initiatives:
+
+Implement employee engagement initiatives, such as regular feedback sessions, career development opportunities, and recognition programs, to boost morale and reduce turnover.
+Exit Interviews and Data Analysis:
+
+Conduct detailed exit interviews and analyze the data to understand the reasons behind employee attrition and develop strategies to address these issues.
 **Insights**
 
 **Recommendations**
