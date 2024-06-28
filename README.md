@@ -15,6 +15,8 @@ These are the CSV files Exported.
 
 [Chart 2](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/Chart%202.csv)
 
+[Chart 2 Manipulated](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/Chart%202%20Manipulated.csv)
+
 [Chart 3](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/Chart%203.csv)
 
 [Chart 4,8,9](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/Chart%204%2C8(part2)%2C9.csv)
