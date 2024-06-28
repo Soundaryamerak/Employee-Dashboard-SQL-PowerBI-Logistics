@@ -27,7 +27,7 @@ These are the CSV files Exported.
 2 dashboard namely Attrition & Gender Gap Analysis [Find Workbook here](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/Employee%20Dashboard.pbix)
 
 # Attrition Analysis Dashboard
-![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/cb0bae34-ddb4-4060-99dc-9cf37c45c19b)
+![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/36c7f15d-d2ef-4507-bf4f-218b98a38bba)
 
 **Charts**
 1. Employees Hired and Quit Over the Years: *Line chart displays the number of employees hired and the number of employees who quit from 1985 to 2000. The blue line represents employees hired, and the purple line represents employees who quit*
