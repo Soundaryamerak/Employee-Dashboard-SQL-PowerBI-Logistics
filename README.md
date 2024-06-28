@@ -40,7 +40,7 @@ These are the CSV files Exported.
 6. **Attrition (2000):** Stacked bar chart depicting 2000 attrition rates by job title across different departments.
 7. **Employee Lifecycle:** Horizontal bar chart showing the average tenure of employees in each job title before quitting.
 
-# Top Insights & Recommendations from the Dashboard
+# Insights & Recommendations from the Dashboard
 **Insight 1:** The number of hires has steadily declined, while the number of employees quitting has increased.
 
 **Recommendations:**
@@ -71,8 +71,28 @@ Now we are aware of the title and department that we need to focus on, we can im
 ![image](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/assets/170541567/dcdcb357-3a78-4610-8428-de1e175b7deb)
 
 
-**Charts**
+# Charts
+1. Gender Ratio (Department): Pie chart displaying the gender ratio across various departments, with each department represented by a unique color.
+2. Female & Male Employees: Gauge chart showing the total number of female and male employees.
+3. Number of Employees: Bar chart displaying the number of active male and female employees across different departments as of year 2000.
+4. Gender Ratio (Title): Pie chart illustrating the gender ratio across various job titles, with each title represented by a different color.
+5. Average Salary (Department): Bar chart showing the average salary for male and female employees across different departments.
+6. Average Salary (Title): Bar chart displaying the average salary for male and female employees across various job titles.
 
-**Insights**
+# Insights and Recommendations
+**Insight 1**: The overall gender ratio is 150%, indicating a significant gender imbalance, with ratios ranging from 140% to 158% across most departments and titles, except for Managers at 84%.
 
-**Recommandations**
+**Recommendations:**
+1. Gender Balance Initiatives: Implement targeted recruitment and retention strategies to achieve a more balanced gender ratio across departments and titles.
+2. Diversity Programs: Launch diversity and inclusion programs to address the gender imbalance and create a more equitable workplace.
+3. Monitor and Report: Regularly monitor and report on gender ratio metrics to track progress and identify areas needing further attention.
+4. Female Recruitment Focus: Develop and execute recruitment campaigns aimed at increasing the number of female employees in underrepresented departments.
+5. Mentorship Programs: Establish mentorship and support programs to encourage and support female employees in their career growth.
+6. Inclusive Culture: Foster an inclusive workplace culture that attracts and retains female talent through policies and practices that support work-life balance and career advancement.
+
+**Insight 2:** There is a significant pay disparity for managers, where despite having a higher number of female managers, their average salary is lower than that of male managers.
+
+**Recommendations:**
+1. Salary Review: Conduct a comprehensive salary review to identify and rectify pay disparities between male and female managers.
+2. Equal Pay Policy: Implement and enforce an equal pay policy to ensure fair compensation practices across all job titles and departments.
+3. Transparency and Communication: Increase transparency in salary structures and communicate the organization's commitment to pay equity to all employees.
